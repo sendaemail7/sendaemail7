@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Acme&family=Balsamiq+Sans&display=swap" rel="stylesheet">
 
 <h1 align="center">Hi there 👋, This is  sendaemail7</h1>
-<h4 align="center">| Tech-Enthusiast | Passionate Learner | Web development enthusiast |</h4><br>
+<h4 align="center">| Tech-Enthusiast | Passionate Learner | Web development & Machine Learning enthusiast |</h4><br>
 
 <h4>Languages and tools I'm familiar with </h4>
 <p align="left">

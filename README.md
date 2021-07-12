@@ -23,7 +23,7 @@
  🔭 I’m currently working on front end projects<br>
   🌱 I’m currently learning Django, DSA<br>
    💬 Ask me about C,C++, Python, Java, HTML,CSS<br>
-    📫 How to reach me: keerthanapravallika@gmail.com 
+    📫 How to reach me: sendaemail7@gmail.com 
 </ul>
 
 <h3>Let's Connect !</h3>
